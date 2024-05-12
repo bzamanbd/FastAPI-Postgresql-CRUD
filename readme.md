@@ -4,7 +4,7 @@
 This is a FastAPI project that demonstrates how to create a simple API and CRUD Operation with PostgreSQL.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your_username/your_project.git`
+1. Clone the repository: `git clone https://github.com/bzamanbd/FastAPI-Postgresql-CRUD`
 2. Install dependencies: `pip install -r requirements.txt`
 
 ## Usage
