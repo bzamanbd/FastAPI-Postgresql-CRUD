@@ -1,4 +1,4 @@
-# FastAPI Basic CRUD Project with Postgresql
+# FastAPI Basic CRUD Project with PostgreSQL
 
 ## Description
 This is a FastAPI project that demonstrates how to create a simple API and CRUD Operation with PostgreSQL.
